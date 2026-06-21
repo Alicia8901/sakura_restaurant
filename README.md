@@ -1,4 +1,4 @@
-# Sakura Kitchen 
+# 🍣 Sakura Kitchen 
 
 A modern, responsive Japanese restaurant website built using HTML, CSS, and JavaScript.
 
