@@ -18,8 +18,8 @@ https://alicia8901.github.io/sakura_restaurant/
 
 <p>
   <img src="images/menu.png" width="350">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/gallery.png" width="350" height="220">
+  <br>
+  <img src="images/gallery.png" width="350">
 </p>
 
 ## Features
