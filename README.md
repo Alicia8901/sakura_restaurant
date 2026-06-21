@@ -6,6 +6,21 @@ A modern, responsive Japanese restaurant website built using HTML, CSS, and Java
 
 https://alicia8901.github.io/sakura_restaurant/
 
+<h2>Screenshots</h2>
+
+<h3>Desktop View</h3>
+
+<p>
+  <img src="images/homepage.png" width="700">
+</p>
+
+<h3>Key Features</h3>
+
+<p>
+  <img src="images/menu.png" width="350">
+  <img src="images/gallery.png" width="350" height="202">
+</p>
+
 ## Features
 
 * Responsive design for desktop, tablet, and mobile devices
